@@ -6,18 +6,18 @@ Préci transforms your study material into an intelligent, adaptive learning sys
 
 ---
 
-## 🚀 What Sets Us Apart
+## What Sets Us Apart
 
-- 📄 **Document Upload → Auto-generated Flashcards & MCQs**
-- 🧠 **Adaptive Recall Engine** – Keeps you in the zone of optimal learning
-- 🗺️ **Dynamic Mindmaps** – Visualize how ideas connect as you progress
-- 📊 **Performance Feedback** – Accuracy, speed, and consistency tracking
-- 🎯 **Pareto-Based Prioritization** – Focus on the top 20% of concepts that matter most
-- 🕹️ **Study Modes** – Solo, Duel, and Multiplayer learning competitions
+- **Document Upload → Auto-generated Flashcards & MCQs**
+- **Adaptive Recall Engine** – Keeps you in the zone of optimal learning
+- **Dynamic Mindmaps** – Visualize how ideas connect as you progress
+- **Performance Feedback** – Accuracy, speed, and consistency tracking
+- **Pareto-Based Prioritization** – Focus on the top 20% of concepts that matter most
+- **Study Modes** – Solo, Duel, and Multiplayer learning competitions
 
 ---
 
-## 💡 Learning Philosophy
+## Learning Philosophy
 
 Préci is grounded in cognitive science and engineered to help you:
 
@@ -29,7 +29,7 @@ Préci is grounded in cognitive science and engineered to help you:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Frontend | Backend | AI/ML |
 |----------|---------|-------|
@@ -37,20 +37,20 @@ Préci is grounded in cognitive science and engineered to help you:
 
 ---
 
-## 🧭 Roadmap Highlights
+## Roadmap Highlights
 
-- 🧠 In-app AI Explainers using First Principles
-- 🗃️ Topic Bundles for Structured Learning Paths
-- 🧪 Adaptive Quiz Architect for Custom Sessions
-- 🧭 Smart Scheduling Aligned to Your Goals
+- In-app AI Explainers using First Principles
+- Topic Bundles for Structured Learning Paths
+- Adaptive Quiz Architect for Custom Sessions
+- Smart Scheduling Aligned to Your Goals
 
 ---
 
-## 🧬 Contribute & Collaborate
+## Contribute & Collaborate
 
 Whether you're a dev, educator, or student, if you believe learning can be beautiful and powerful, we’d love your input.
 
-- 🌐 [github.com/Preci-AI](https://github.com/Preci-AI)
+- [github.com/Preci-AI](https://github.com/Preci-AI)
 
 > *“Where machine precision meets human potential — for precision in learning and power in mastery.”*
 
